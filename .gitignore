@@ -6,3 +6,4 @@ Temp/*
 *.sln
 *.suo
 *.vsidx
+.vs/FSMCharacterMovement/v17/DocumentLayout.json
